@@ -1,6 +1,6 @@
 # unzipnew - extracts only newer/udated files
 
-unzip only newer/updated files (by checking their hash) for Windows
+Tool to unzip only newer/updated files (by checking their hash) for Windows
 
 Usage:
 
